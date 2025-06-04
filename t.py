@@ -1,2 +1,2 @@
 print("q")
-print("G")
+print("O")
