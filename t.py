@@ -1,1 +1,1 @@
-Print("q")
+print("q")
