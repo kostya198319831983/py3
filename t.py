@@ -1,2 +1,0 @@
-print("q")
-print("O")
